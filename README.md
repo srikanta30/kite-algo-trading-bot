@@ -1,4 +1,4 @@
-# Kite-Algo-Trading-Bot
+# kite-algo-trading-bot
 AWS Lambda Function that implements mean reversion strategy using Zerodha/Kite API in Node.js.
 ```js
 //AWS Lambda Function that implements mean reversion strategy in Node.js:
